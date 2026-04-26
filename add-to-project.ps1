@@ -4,7 +4,7 @@
 # Con URL personalizada: .\add-to-project.ps1 -SkillsRepoUrl "https://github.com/usuario/ultra-master-skills.git"
 
 param(
-    [string]$SkillsRepoUrl = "https://github.com/melvinortiz1919/ultra-master-skills.git"
+    [string]$SkillsRepoUrl = "https://github.com/Melvin-Ortiz/ultra-master-skills.git"
 )
 
 $ErrorActionPreference = "Stop"

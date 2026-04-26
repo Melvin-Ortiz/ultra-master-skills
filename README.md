@@ -24,8 +24,8 @@
 ### Instalación en un proyecto nuevo
 
 ```bash
-git submodule add https://github.com/melvinortiz1919/ultra-master-skills.git .agent/skills
-git submodule add https://github.com/melvinortiz1919/ultra-master-skills.git .claude/skills
+git submodule add https://github.com/Melvin-Ortiz/ultra-master-skills.git .agent/skills
+git submodule add https://github.com/Melvin-Ortiz/ultra-master-skills.git .claude/skills
 git submodule update --init --recursive
 ```
 

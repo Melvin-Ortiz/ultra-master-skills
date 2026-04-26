@@ -4,7 +4,7 @@
 # Uso: bash add-to-project.sh
 # Con URL personalizada: SKILLS_REPO="https://..." bash add-to-project.sh
 
-SKILLS_REPO="${SKILLS_REPO:-https://github.com/melvinortiz1919/ultra-master-skills.git}"
+SKILLS_REPO="${SKILLS_REPO:-https://github.com/Melvin-Ortiz/ultra-master-skills.git}"
 
 echo "Agregando Ultra Master Skills al proyecto..."
 
